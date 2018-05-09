@@ -1,1 +1,57 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>The HUNG Squad</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-46462867-1', 'hungsquad.com');
+  ga('send', 'pageview');    
+    </script>
+        
+   
+</head>
+<body>     
+    
+     <div class="wrapper">
+        <div id="logo"><center><font color="#ffbf37" size=8>The</font> <font color="#ebe6d0" size=8>HUNG</font> <font color="#ffbf37" size=8>Squad</font></center></div>
+        <div id="the-links">
+            <a href="http://www.twitter.com/hungsquad/">Twitter</a>
+             |
+                <a href="https://www.instagram.com/thehungsquad/">Instagram</a>
+            |
+                    <a href="https://www.facebook.com/hungsquad">Facebook</a>
+        |
+                        <a href="https://www.twitch.tv/hungsquad">Twitch</a>
+            
+       
+           
+        <hr class="style-one">
+
+           <div id="title"><p><center><img src="https://github.com/dupreeben/hung/blob/gh-pages/hunglogohd.png?raw=true" style="width:300px;">
+              <br>            
+           <p align=center>We are the Hidden Urban Ninja Guild. We are buddies who play games and build community. </p>
+       
+               <p>We are therottedzombie, DYLstroy, Jojoshsh, and DangerLiveBees. We live in California and Oregon in the U.S.</p>
+               
+               <p>Our squad plays Playerunknown's Urban Battlegrounds (PUBG) casually and competitively. We also play Sea of Thieves and other variety multiplayer and single-player games.</p>
+               
+        <p>Watch us play on <a href="https://www.twitch.tv/hungsquad">Twitch</a>.</p>
+        
+        <p>Stay frosty and see you out there.</p>
+
+               <hr class="style-one">
+               
+               <p align=right><font size=1>Copyright Ben DuPree (2018)</font></p> </align>
+               </div>
+        
+    </div>
+
+</body>
+</html>
